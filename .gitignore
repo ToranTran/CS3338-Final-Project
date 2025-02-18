@@ -1,0 +1,10 @@
+#file
+*.log
+*-*.txt
+styles.css
+SRS_*.docx
+SDD_*.docx
+**/README.md
+
+#folder
+user_manual/
